@@ -1,0 +1,47 @@
+.ab{
+background:url(/static/Deep.jpg) no-repeat center center fixed;
+height:50%;
+}
+.card{
+height: auto;
+margin-bottom: 10px;
+
+}
+.ft{
+margin-top: 50px;
+position:relative;
+font-size: 15px;
+padding-bottom: 60px;
+color: #556877;
+
+}
+.jumbotron{
+background-color:#F0FFF0;
+
+}
+.blockquote-footer{
+text-align:right;
+}
+.card{
+padding: 25px;
+background-color:#F0FFF0;
+margin-left:0px;
+}
+
+footer{
+background:url(/static/Red.jpg) no-repeat center center fixed;
+height:250px;
+width:100%;
+padding:50px;
+}
+
+li{
+text-decoration:none;
+color:white;
+list-style:none;
+}
+
+.card .btn-outline {
+border:1px solid #17a2b8;
+margin-bottom: 10px;
+}
